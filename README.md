@@ -1,0 +1,2 @@
+[![pages-build-deployment](https://github.com/mikeybob/mikeybob.github.io/actions/workflows/pages/pages-build-deployment/badge.svg?branch=main)](https://github.com/mikeybob/mikeybob.github.io/actions/workflows/pages/pages-build-deployment)
+[![Deploy Jekyll with GitHub Pages dependencies preinstalled](https://github.com/mikeybob/mikeybob.github.io/actions/workflows/jekyll-gh-pages.yml/badge.svg?branch=main)](https://github.com/mikeybob/mikeybob.github.io/actions/workflows/jekyll-gh-pages.yml)
