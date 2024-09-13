@@ -55,7 +55,7 @@ GEM
     public_suffix (5.0.0)
     rb-inotify (0.10.1)
       ffi (~> 1.0)
-    rexml (3.3.3)
+    rexml (3.3.6)
       strscan
     rouge (4.2.0)
     safe_yaml (1.0.4)
